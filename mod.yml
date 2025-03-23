@@ -1,6 +1,7 @@
 title: Lightning Returns Special Weapon Pack
 originalAuthor: wavingfuture
 description: A varied collection of special weapons from Lightning Returns FFXIII, from enemies, bosses, and DLC. Replaces all keyblades, including the additional GoA keyblades.
+game: kh2
 dependencies: 
 assets:
 - name: dll/KH2Moose.dll
